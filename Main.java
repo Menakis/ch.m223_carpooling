@@ -1,7 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
-        //Filler, gilt zu Ersetzen !!!
+        //Füller, gilt alsbald zu Ersetzen !!!
         System.out.println("Hello World!");
     }
 }
